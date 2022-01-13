@@ -1,0 +1,11 @@
+Garfield=2.8
+Alien=1.25
+Cheshire=1.5
+Pinkpanther=1.09
+Zombie=2.37
+Clones=1.090
+2017=2.55
+2018=4.5
+2019=11.5
+2020=33.0
+2021=0.58
